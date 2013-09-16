@@ -1,0 +1,18 @@
+[submodule "slim"]
+	path = slim
+	url = git@github.com:moliad/slim.git
+[submodule "utils-libs"]
+	path = utils-libs
+	url = git@github.com:moliad/utils-libs.git
+[submodule "misc-libs"]
+	path = misc-libs
+	url = git@github.com:moliad/misc-libs.git
+[submodule "liquid-libs"]
+	path = liquid-libs
+	url = git@github.com:moliad/liquid-libs.git
+[submodule "glass-libs"]
+	path = glass-libs
+	url = git@github.com:moliad/glass-libs.git
+[submodule "win32-libs"]
+	path = win32-libs
+	url = git@github.com:moliad/win32-libs.git
