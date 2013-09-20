@@ -10,9 +10,6 @@
 [submodule "liquid-libs"]
 	path = liquid-libs
 	url = git@github.com:moliad/liquid-libs.git
-[submodule "glass-libs"]
-	path = glass-libs
-	url = git@github.com:moliad/glass-libs.git
 [submodule "win32-libs"]
 	path = win32-libs
 	url = git@github.com:moliad/win32-libs.git
