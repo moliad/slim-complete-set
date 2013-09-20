@@ -13,3 +13,6 @@
 [submodule "win32-libs"]
 	path = win32-libs
 	url = git@github.com:moliad/win32-libs.git
+[submodule "glass-libs"]
+	path = glass-libs
+	url = git@github.com:moliad/glass-libs.git
